@@ -1,0 +1,1 @@
+{"description":"Push-optimal Sokoban solver for make.fun's Build the best Sokoban solver bounty","license":"MIT","name":"sokoban-solver-01-run-20261121","scripts":{"start":"node main.ts","test":"node --test tests/*.test.mjs"},"type":"module","version":"1.0.0"}
